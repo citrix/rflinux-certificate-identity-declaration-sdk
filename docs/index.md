@@ -1,4 +1,4 @@
-# Certificate Identity Declaration SDK for Citrix Receiver for Linux 13.10
+# Certificate Identity Declaration SDK for Citrix Receiver for Linux
 
 ## Compatibility with Receiver
 
